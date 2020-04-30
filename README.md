@@ -1,0 +1,2 @@
+# community
+Majiang community
